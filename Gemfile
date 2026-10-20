@@ -1,14 +1,15 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+# 必须用 3.x：它基于 Dart Sass，才支持 math.div
+gem "jekyll-sass-converter", "~> 3.0"
+gem "webrick", "~> 1.8"
 
 group :jekyll_plugins do
-  gem 'jekyll', '~> 4.4.1'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-gist'
-  gem 'jekyll-paginate'
-  gem 'jemoji'
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
+  gem "jemoji"
 end
-
-gem 'kramdown'
-gem 'kramdown-parser-gfm'
