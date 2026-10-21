@@ -22,14 +22,14 @@ repository               : "zgao98/zgao98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Professional_Photograph.png"
+  name             : "Zhan Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor of Robotics"
+  location         : "HW 738, Haking Wong Building"
+  employer         : "University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zgao@hku.hk" 
 
   # Academic websites
   academia         : # URL
