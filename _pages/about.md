@@ -25,11 +25,15 @@ Selected Publications
   <div class="pub-venue"><strong><em>IEEE Transactions on Robotics (TRO)</em></strong>, 2025 - Media Promotion by T-RO</div>
 </div>
 
+<br>
+
 <div class="pub-item">
   <div class="pub-title">Graph Neural Networks Over the Air for Decentralized Tasks in Wireless Networks</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Deniz Gunduz</div>
   <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2025</div>
 </div>
+
+<br>
 
 <div class="pub-item">
   <div class="pub-title">Concrete Multi-Agent Path Planning Enabling Kinodynamically Aggressive Maneuvers</div>
@@ -37,10 +41,44 @@ Selected Publications
   <div class="pub-venue"><strong><em>Nature Portfolio npj Robotics</em></strong>, 2026 - Homepage Hero Image by Nature Protfolio npj Robotics</div>
 </div>
 
+<br>
+
 <div class="pub-item">
   <div class="pub-title">Provably Safe Online Multi-Agent Navigation in Unknown Environments</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, Jasmine Bayrooti, and Amanda Prorok</div>
   <div class="pub-venue"><strong><em>Conference on Robot Learning (CoRL)</em></strong>, 2024</div>
+</div>
+
+<br>
+
+<div class="pub-item">
+  <div class="pub-title">Environment Optimization for Multi-Agent Navigation</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Amanda Prorok</div>
+  <div class="pub-venue"><strong><em>IEEE International Conference on Robotics and Automation (ICRA)</em></strong>, 2023</div>
+</div>
+
+<br>
+
+<div class="pub-item">
+  <div class="pub-title">Online Control Barrier Functions for Decentralized Multi-Agent Navigation</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, and Amanda Prorok</div>
+  <div class="pub-venue"><strong><em>IEEE International Symposium on Multi-Robot $\&$ Multi-Agent Systems (MRS)</em></strong>, 2023 - Best Paper Award Finalist</div>
+</div>
+
+<br>
+
+<div class="pub-item">
+  <div class="pub-title">Learning Stochastic Graph Neural Networks with Constrained Variance</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Elvin Isufi</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
+</div>
+
+<br>
+
+<div class="pub-item">
+  <div class="pub-title">Learning Stochastic Graph Neural Networks with Constrained Variance</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Elvin Isufi</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
 </div>
 
 Site-wide configuration
