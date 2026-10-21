@@ -17,7 +17,7 @@ I am always looking for strong candidates to join the lab as PhD / RA / Interns 
 
 If you are an HKU student (B.Eng. or M.Sc.) interested in doing research with me, please feel free to drop me an email.
 
-Selected Publications
+<span style="color: #2F5FD0;">Selected Publications</span>
 ======
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
