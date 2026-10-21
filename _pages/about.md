@@ -9,15 +9,15 @@ redirect_from:
 
 Zhan Gao is an Assistant Professor of Robotics in [the Department of Mechanical Engineering](https://mech.hku.hk/) at [The University of Hong Kong](https://www.hku.hk). His research mainly focuses on multi-robot systems, with particular interests in their information fusion, safety-critical control, and intelligent coordination.
 
-He received his Ph.D. in Computer Science from the University of Cambridge, supervised by Prof. Amanda Prorok, his M.S.E. in Systems Engineering from the University of Pennsylvania, supervised by Prof. Alejandro Ribeiro, and his M.Eng. in Signal and Information Processing from Peking University, supervised by Prof. Anhong Dang. Prior to joining the University of Hong Kong, he worked as a Research Associate in the Department of Electrical and Electronic Engineering at Imperial College London, hosted by Prof. Deniz Gunduz, and a Visiting Academic in the Department of Computer Science and Technology at the University of Cambridge, hosted by Prof. Amanda Prorok. He has received several awards such as the Ganster Engineering Fellowship, the Manjushri Fellowship, and the Best Paper Award Finalist in IEEE MRS 2023.
+He received his Ph.D. in Computer Science from the University of Cambridge, supervised by [Prof. Amanda Prorok](), his M.S.E. in Systems Engineering from the University of Pennsylvania, supervised by Prof. Alejandro Ribeiro, and his M.Eng. in Signal and Information Processing from Peking University, supervised by Prof. Anhong Dang. Prior to joining the University of Hong Kong, he worked as a Research Associate in the Department of Electrical and Electronic Engineering at Imperial College London, hosted by Prof. Deniz Gunduz, and a Visiting Academic in the Department of Computer Science and Technology at the University of Cambridge, hosted by Prof. Amanda Prorok. He has received several awards such as the Ganster Engineering Fellowship, the Manjushri Fellowship, and the Best Paper Award Finalist in IEEE MRS 2023.
 
 [Department Page](https://mech.hku.hk/academic-staff/gao-z/)
 
 <span style="color: #8C1515;">Openings</span>
 ======
-I am always looking for strong candidates to join the lab as <span style="color: #8C1515;">PhD / RA / Interns / Visiting students</span>. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
+I am always looking for strong candidates to join the lab as **PhD / RA / Interns / Visiting Students**. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
 
-If you are <span style="color: #8C1515;">HKU students (B.Eng. or M.Sc.)</span> interested in doing research with me, please feel free to drop me an email.
+If you are **HKU students (B.Eng. or M.Sc.)** interested in doing research with me, please feel free to drop me an email.
 
 <span style="color: #2F5FD0;">Selected Publications</span>
 ======
