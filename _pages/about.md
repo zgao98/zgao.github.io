@@ -84,17 +84,17 @@ Selected Publications
 <br>
 
 <div class="pub-item">
-  <div class="pub-title">Learning Stochastic Graph Neural Networks with Constrained Variance</div>
-  <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Elvin Isufi</div>
-  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
+  <div class="pub-title">Wide and Deep Graph Neural Network with Distributed Online Learning</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Fernando Gama, and Alejandro Ribeiro</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2022</div>
 </div>
 
 <br>
 
 <div class="pub-item">
-  <div class="pub-title">Wide and Deep Graph Neural Network with Distributed Online Learning</div>
-  <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Fernando Gama, and Alejandro Ribeiro</div>
-  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
+  <div class="pub-title">Balancing Rates and Variance via Adaptive Batch-Size for Stochastic Optimization Problems</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Alec Koppel, and Alejandro Ribeiro</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2022</div>
 </div>
 
 Site-wide configuration
