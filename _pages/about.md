@@ -1,28 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Zhan Gao is an Assistant Professor of Robotics in the Department of Mechanical Engineering at the University of Hong Kong. His research mainly focuses on multi-robot systems, with particular interests in their information fusion, safety-critical control, and intelligent coordination.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+He received his Ph.D. in Computer Science from the University of Cambridge, supervised by Prof. Amanda Prorok, his M.S.E. in Systems Engineering from the University of Pennsylvania, supervised by Prof. Alejandro Ribeiro, and his M.Eng. in Signal and Information Processing from Peking University, supervised by Prof. Anhong Dang. Prior to joining the University of Hong Kong, he worked as a Research Associate in the Department of Electrical and Electronic Engineering at Imperial College London, hosted by Prof. Deniz Gunduz, and a Visiting Academic in the Department of Computer Science and Technology at the University of Cambridge, hosted by Prof. Amanda Prorok. He has received several awards such as the Ganster Engineering Fellowship, the Manjushri Fellowship, and the Best Paper Award Finalist in IEEE MRS 2023.
 
-A data-driven personal website
+Openings
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am always looking for strong candidates to join the lab as PhD / RA / Interns / Visiting students. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+If you are an HKU student (B.Eng. or M.Sc.) interested in doing research with me, please feel free to drop me an email.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Selected Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
