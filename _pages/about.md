@@ -22,7 +22,7 @@ Selected Publications
 <div class="pub-item">
   <div class="pub-title">Co-Optimizing Reconfigurable Environments and Policies for Decentralized Multi-Agent Navigation</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, and Amanda Prorok</div>
-  <div class="pub-venue"><strong><em>IEEE Transactions on Robotics (TRO)</em></strong>, 2025 - Media Promotion by T-RO</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Robotics (TRO)</em></strong>, 2025 - </em></strong>Media Promotion by T-RO</em></strong></div>
 </div>
 
 <br>
@@ -38,7 +38,7 @@ Selected Publications
 <div class="pub-item">
   <div class="pub-title">Concrete Multi-Agent Path Planning Enabling Kinodynamically Aggressive Maneuvers</div>
   <div class="pub-authors">Keisuke Okumura, Guang Yang, <strong><u>Zhan Gao</u></strong>, Heedo Woo, and Amanda Prorok</div>
-  <div class="pub-venue"><strong><em>Nature Portfolio npj Robotics</em></strong>, 2026 - Homepage Hero Image by Nature Protfolio npj Robotics</div>
+  <div class="pub-venue"><strong><em>Nature Portfolio npj Robotics</em></strong>, 2026 - </em></strong>Homepage Hero Image by Nature Protfolio npj Robotics</em></strong></div>
 </div>
 
 <br>
@@ -46,7 +46,7 @@ Selected Publications
 <div class="pub-item">
   <div class="pub-title">ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination</div>
   <div class="pub-authors">Michael Amir, Guang Yang, <strong><u>Zhan Gao</u></strong>, Keisuke Okumura, Heedo Woo, Amanda Prorok</div>
-  <div class="pub-venue"><strong><em>Conference on Robot Learning (CoRL)</em></strong>, 2025 - Homepage Hero Image by Nature Protfolio npj Robotics</div>
+  <div class="pub-venue"><strong><em>Conference on Robot Learning (CoRL)</em></strong>, 2025</div>
 </div>
 
 <br>
@@ -70,7 +70,7 @@ Selected Publications
 <div class="pub-item">
   <div class="pub-title">Online Control Barrier Functions for Decentralized Multi-Agent Navigation</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, and Amanda Prorok</div>
-  <div class="pub-venue"><strong><em>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS)</em></strong>, 2023 - Best Paper Award Finalist</div>
+  <div class="pub-venue"><strong><em>IEEE International Symposium on Multi-Robot & Multi-Agent Systems (MRS)</em></strong>, 2023 - </em></strong>Best Paper Award Finalist</em></strong></div>
 </div>
 
 <br>
