@@ -37,6 +37,27 @@
     "layout/sidebar"
 ;
 
+.masthead__inner-wrap {
+  position: relative;
+}
+
+.masthead__menu {
+  margin-right: 180px;
+}
+
+.masthead-logo-right {
+  position: absolute;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+  line-height: 0;
+}
+
+.masthead-logo-right img {
+  height: 40px;
+  width: auto;
+}
+
 .page__footer {
   display: none !important;
 }
