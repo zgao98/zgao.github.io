@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhan Gao is an Assistant Professor of Robotics in [the Department of Mechanical Engineering](https://mech.hku.hk/) at [The University of Hong Kong](https://www.hku.hk). His research mainly focuses on multi-robot systems, with particular interests in their information fusion, safety-critical control, and intelligent coordination.
+Zhan Gao is an Assistant Professor of Robotics in [the Department of Mechanical Engineering](https://mech.hku.hk/) at [The University of Hong Kong](https://www.hku.hk). His research mainly focuses on multi-robot systems, with particular interests in their safety-critical control, and intelligent coordination.
 
 He received his Ph.D. in Computer Science from the University of Cambridge, his M.S.E. in Systems Engineering from the University of Pennsylvania, and his M.Eng. in Signal and Information Processing from Peking University. Prior to joining the University of Hong Kong, he worked as a Research Associate in the Department of Electrical and Electronic Engineering at Imperial College London and a Visiting Academic in the Department of Computer Science and Technology at the University of Cambridge. He has received several awards such as the Ganster Engineering Fellowship, the Manjushri Fellowship, and the Best Paper Award Finalist in IEEE MRS 2023. [Department Page](https://mech.hku.hk/academic-staff/gao-z/)
 
