@@ -44,6 +44,14 @@ Selected Publications
 <br>
 
 <div class="pub-item">
+  <div class="pub-title">ReCoDe: Reinforcement Learning-based Dynamic Constraint Design for Multi-Agent Coordination</div>
+  <div class="pub-authors">Michael Amir, Guang Yang, <strong><u>Zhan Gao</u></strong>, Keisuke Okumura, Heedo Woo, Amanda Prorok</div>
+  <div class="pub-venue"><strong><em>Nature Portfolio npj Robotics</em></strong>, 2026 - Homepage Hero Image by Nature Protfolio npj Robotics</div>
+</div>
+
+<br>
+
+<div class="pub-item">
   <div class="pub-title">Provably Safe Online Multi-Agent Navigation in Unknown Environments</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Guang Yang, Jasmine Bayrooti, and Amanda Prorok</div>
   <div class="pub-venue"><strong><em>Conference on Robot Learning (CoRL)</em></strong>, 2024</div>
@@ -78,6 +86,14 @@ Selected Publications
 <div class="pub-item">
   <div class="pub-title">Learning Stochastic Graph Neural Networks with Constrained Variance</div>
   <div class="pub-authors"><strong><u>Zhan Gao</u></strong> and Elvin Isufi</div>
+  <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
+</div>
+
+<br>
+
+<div class="pub-item">
+  <div class="pub-title">Wide and Deep Graph Neural Network with Distributed Online Learning</div>
+  <div class="pub-authors"><strong><u>Zhan Gao</u></strong>, Fernando Gama, and Alejandro Ribeiro</div>
   <div class="pub-venue"><strong><em>IEEE Transactions on Signal Processing (TSP)</em></strong>, 2023</div>
 </div>
 
