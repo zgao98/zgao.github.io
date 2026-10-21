@@ -15,9 +15,9 @@ He received his Ph.D. in Computer Science from the University of Cambridge, supe
 
 <span style="color: #8C1515;">Openings</span>
 ======
-I am always looking for strong candidates to join the lab as PhD / RA / Interns / Visiting students. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
+I am always looking for strong candidates to join the lab as <span style="color: #8C1515;">PhD / RA / Interns / Visiting students</span>. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
 
-If you are an HKU student (B.Eng. or M.Sc.) interested in doing research with me, please feel free to drop me an email.
+If you are <span style="color: #8C1515;">HKU students (B.Eng. or M.Sc.)</span> interested in doing research with me, please feel free to drop me an email.
 
 <span style="color: #2F5FD0;">Selected Publications</span>
 ======
