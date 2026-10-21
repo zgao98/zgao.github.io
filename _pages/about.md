@@ -11,7 +11,7 @@ Zhan Gao is an Assistant Professor of Robotics in the Department of Mechanical E
 
 He received his Ph.D. in Computer Science from the University of Cambridge, supervised by Prof. Amanda Prorok, his M.S.E. in Systems Engineering from the University of Pennsylvania, supervised by Prof. Alejandro Ribeiro, and his M.Eng. in Signal and Information Processing from Peking University, supervised by Prof. Anhong Dang. Prior to joining the University of Hong Kong, he worked as a Research Associate in the Department of Electrical and Electronic Engineering at Imperial College London, hosted by Prof. Deniz Gunduz, and a Visiting Academic in the Department of Computer Science and Technology at the University of Cambridge, hosted by Prof. Amanda Prorok. He has received several awards such as the Ganster Engineering Fellowship, the Manjushri Fellowship, and the Best Paper Award Finalist in IEEE MRS 2023.
 
-Openings
+<span style="color: #8C1515;">Openings</span>
 ======
 I am always looking for strong candidates to join the lab as PhD / RA / Interns / Visiting students. We welcome applicants interested in automatic control, robot learning, foundation models, and multimodal sensing. Students with hands-on experience working with real robots are preferred. 
 
