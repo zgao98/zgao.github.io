@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "Professional_Photograph.png"
   name             : "Zhan Gao"
-  pronouns         : # example: "she/her"  
+  pronouns         : 
   bio              : "Assistant Professor of Robotics<br>Email: <zgao@hku.hk>"
   location         : "HW 738, Haking Wong Building"
   employer         : "University of Hong Kong"
-  uri              : # URL
-  email            : "zgao@hku.hk" 
+  uri              : 
+  email            : 
 
   # Academic websites
   academia         : 
